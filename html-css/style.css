@@ -1,0 +1,50 @@
+body {
+     margin: 0;
+	 font-family: "Raleway", sans-serif;
+}
+
+ul {
+	 margin: 0;
+	 list-style-type: none;
+}
+
+a {
+	 text-decoration: none;
+	 color: inherit;
+}
+
+.header {
+	 display: flex;
+	 height: 50px;
+	 align-items: center;
+	 background-color: black;
+}
+ 
+.logo-link{
+	 display: flex;
+	 height: 100%;
+	 align-items: center;
+}
+
+.logo-img {
+	 height: 40px;
+}
+
+.nav-list {
+	display: flex;
+	align-items: center;
+}
+
+.nav-list li {
+	 padding: 0 10px;
+	 color: white;
+	 font-weight: bold;
+	 font-size: 14px;
+}
+
+ 
+
+ 
+
+
+ 
